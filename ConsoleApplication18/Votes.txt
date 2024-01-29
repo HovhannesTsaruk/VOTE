@@ -1,0 +1,10 @@
+Johnson 5000
+Miller 4000
+Duffy 6000
+Robinson 2500
+Anthony 1800
+Miller 1000
+Johnson 3000
+Duffy 1000
+Miller 3000
+Anthony 200
